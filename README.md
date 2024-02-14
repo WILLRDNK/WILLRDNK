@@ -28,7 +28,7 @@
   <a href="https://www.instagram.com/will_RDNK/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:WRRodriguesR@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/Willian-Rodrigues-RDNK"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://drive.google.com/drive/folders/1ANbKHv35mNUKaKKMjQGByLVPGKnF49GQ?usp=sharing"><img src="https://img.shields.io/badge/-Certificados-%23333?style=for-the-badge&logo=Google-Drive&logoColor=white" target="_blank"></a>
+   <a href="https://willianrodrigues.dev/cursos"><img src="https://img.shields.io/badge/-Certificados-%23333?style=for-the-badge&logo=Google-Drive&logoColor=white" target="_blank"></a>
    
   
 </div>  
