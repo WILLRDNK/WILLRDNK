@@ -1,4 +1,5 @@
    <h1 align="center"> Bem-vindo ao meu perfil! </h1>
+   <!--
 <div align="center">
   <a href="https://github.com/WILLRDNK">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WILLRDNK&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -12,7 +13,7 @@
   <img align="center" alt="will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
- 
+ -->
   <div align="center" style="background-color: #013750">
 
  <!-- <h1 align="center"> 🏆 GitHub Conquistas </h1> -->
